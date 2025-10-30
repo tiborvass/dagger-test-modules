@@ -1,6 +1,6 @@
 {
   "name": "dep2",
   "sdk": "go",
-  "source": "dagger",
-  "engineVersion": "v0.11.9"
+  "engineVersion": "v0.11.9",
+  "source": "dagger"
 }
