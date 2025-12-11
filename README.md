@@ -1,2 +1,3 @@
 toto
 bar
+baz
